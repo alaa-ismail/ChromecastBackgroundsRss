@@ -1,0 +1,26 @@
+{
+  "name": "ChromecastTheme",
+  "version": "1.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~4.4.5",
+    "request-json": "~0.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alaa-ismail"
+  },
+  "author": "Alaa Ismail",
+  "license": "BSD",
+  "keywords": [
+    "chromecast",
+    "theme",
+    "background",
+    "rss"
+  ]
+}
