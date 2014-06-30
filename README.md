@@ -9,7 +9,8 @@ Quick Installation
 ===============================
 To install the dynamic theme: 
 
-1) Download the file [chromecast.theme](chromecast.theme) file (right-click, save as). 
+1) Download the file [chromecast.theme](https://raw.githubusercontent.com/alaa-ismail/ChromecastBackgroundsRss/master/chromecast.theme) file (right-click, save as).
+
 2) Open the file and select Download Attachements
 
 
