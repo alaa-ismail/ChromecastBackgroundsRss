@@ -1,7 +1,7 @@
-Chromecast Backgrounds Rss
+Chromecast Backgrounds RSS
 ============================
 
-This is a simple nodejs application that creates an RSS feed of Chromecast backgrounds. You can use this to create
+This is a simple nodejs application that creates an RSS feed of Chromecast backgrounds. You can use this to create an
 RSS-fed dynamic theme in windows that will automatically download new backgrounds as they become available.
 
 
